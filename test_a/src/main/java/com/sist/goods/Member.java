@@ -1,6 +1,6 @@
 package com.sist.goods;
 
 public class Member {
-	private int no;
+	private String no;
 	private String name;
 }
